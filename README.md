@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/royrafmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royrafmp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmhvqz-qs2v-vw4lgkcweya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmhvqz-qs2v-vw4lgkcweya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCMhVqZ-qs2v-vw4LgkcWEYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmhvqz-qs2v-vw4lgkcweya" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/royraflesmatorangpasaribu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="royraflesmatorangpasaribu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@2117051058_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2117051058_roy" height="30" width="40" /></a>
 </p>
