@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Roy Rafles Matorang Pasaribu</h1>
-<h3 align="center">i'm mobile developer</h3>
+<h3 align="center">i'm mobile developer and system Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royraflesmatorangpasaribu&label=Profile%20views&color=0e75b6&style=flat" alt="royraflesmatorangpasaribu" /> </p>
 
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 - 🔭 I am studying in a [Univeritas Lampung](https://www.unila.ac.id/)
 
-- 🌱 I’m currently learning **Mobile Programming**
+- 🌱 I’m currently learning **Mobile Programming and Python Programming**
 
 - 🤝 I'm majored [Computer Science](http://ilkom.unila.ac.id/?page_id=19)
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1O8EITfT39wJ4EbNbwVG-jiGAnZ6IpHO1/view?usp=sharing](https://drive.google.com/file/d/1O8EITfT39wJ4EbNbwVG-jiGAnZ6IpHO1/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1O8EITfT39wJ4EbNbwVG-jiGAnZ6IpHO1/view?usp=sharing](https://bit.ly/cvroyraflesmatorangpasaribu)
 
 - 💬 Ask me about **C, C++, Java, Python**
 
