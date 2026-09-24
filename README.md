@@ -1,11 +1,12 @@
-<!--
-**royraflesmatorangpasaribu/royraflesmatorangpasaribu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <h1 align="center">Hi there, I'm Roy Rafles Matorang Pasaribu 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Back+End+Developer;Full+Stack+Developer;System+Engineer;Computer+Science+Student+%40+Unila" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/royraflesmatorangpasaribu/royraflesmatorangpasaribu/main/assets/eyes.svg" width="220" alt="mata ngintip" />
+  <br/><sub><i>👀 ...lagi ngintipin visitor</i></sub>
 </p>
 
 <p align="center">
@@ -64,6 +65,39 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🎮 Klik-klik Iseng
+
+<details>
+<summary>🃏 Klik buat lihat joke programmer hari ini</summary>
+<br>
+
+> Kenapa programmer selalu bingung antara Halloween sama Natal?
+> Soalnya `Oct 31 == Dec 25` 🎃🎄
+
+</details>
+
+<details>
+<summary>🧠 Klik buat lihat fun fact receh</summary>
+<br>
+
+Aku pernah mikir bug itu fitur tersembunyi... ternyata cuma kurang titik koma 😅
+
+</details>
+
+<details>
+<summary>☕ Klik buat lihat status ngoding hari ini</summary>
+<br>
+
+<img src="https://media.giphy.com/media/L1R1tvL9vzREnHnb7t/giphy.gif" width="260" alt="coding status" />
+
+</details>
+
+<p align="center">
+  <img src="https://readme-quote-generator.vercel.app/api?type=random&theme=default" alt="random dev quote" />
 </p>
 
 ---
