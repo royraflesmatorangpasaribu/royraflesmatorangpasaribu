@@ -1,0 +1,53 @@
+<svg width="260" height="120" viewBox="0 0 260 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="shine" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e8e8e8"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Left eye -->
+  <g>
+    <ellipse cx="75" cy="60" rx="55" ry="50" fill="url(#shine)" stroke="#0E75B6" stroke-width="4"/>
+    <g>
+      <circle cx="75" cy="60" r="22" fill="#1a1a1a">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -14,0; -14,0; 14,0; 14,0; 0,0; 0,0"
+          keyTimes="0; 0.15; 0.35; 0.5; 0.7; 0.85; 1"
+          dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="66" cy="51" r="6" fill="#ffffff" opacity="0.9">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -14,0; -14,0; 14,0; 14,0; 0,0; 0,0"
+          keyTimes="0; 0.15; 0.35; 0.5; 0.7; 0.85; 1"
+          dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <!-- eyelid blink -->
+    <rect x="15" y="10" width="120" height="0" fill="#0d1117">
+      <animate attributeName="height" values="0;0;55;0;0" keyTimes="0;0.46;0.5;0.54;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Right eye -->
+  <g>
+    <ellipse cx="185" cy="60" rx="55" ry="50" fill="url(#shine)" stroke="#0E75B6" stroke-width="4"/>
+    <g>
+      <circle cx="185" cy="60" r="22" fill="#1a1a1a">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -14,0; -14,0; 14,0; 14,0; 0,0; 0,0"
+          keyTimes="0; 0.15; 0.35; 0.5; 0.7; 0.85; 1"
+          dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="176" cy="51" r="6" fill="#ffffff" opacity="0.9">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; -14,0; -14,0; 14,0; 14,0; 0,0; 0,0"
+          keyTimes="0; 0.15; 0.35; 0.5; 0.7; 0.85; 1"
+          dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <rect x="125" y="10" width="120" height="0" fill="#0d1117">
+      <animate attributeName="height" values="0;0;55;0;0" keyTimes="0;0.46;0.5;0.54;1" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
