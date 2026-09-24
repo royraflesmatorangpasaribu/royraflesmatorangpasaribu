@@ -1,53 +1,50 @@
-### HELLO WORLD
+<div align="center">
 
-<!--
-**royraflesmatorangpasaribu/royraflesmatorangpasaribu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Banner / Header GIF Animasi -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Roy%20Rafles%20Matorang%20Pasaribu&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
 
-Here are some ideas to get you started:
+  <!-- Dynamic Typing Text (Text Bergerak) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&height=50&lines=Back-End+Developer;Full-Stack+Developer;System+Engineer;Computer+Science+Student" alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Roy Rafles Matorang Pasaribu</h1>
-<h3 align="center">i'm Back End Developer, Full Stack Developer and system Engineer</h3>
+  <br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royraflesmatorangpasaribu&label=Profile%20views&color=0e75b6&style=flat" alt="royraflesmatorangpasaribu" /> </p>
+  <!-- Social Media & Contact Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/roy-rafles-matorang-pasaribu/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://royraflesmatorangpasaribu.github.io/portofolio-royraflesmatorangpasaribu.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:royraflmp@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/royrafmp">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <!-- Visitor Count -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=royraflesmatorangpasaribu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
 
-- 🔭 I am studying in a [Univeritas Lampung](https://www.unila.ac.id/)
+</div>
 
-- 🌱 I’m currently learning **Python Programming**
+---
 
-- 🤝 I'm majored [Computer Science](http://ilkom.unila.ac.id/?page_id=19)
+### 💫 About Me
 
-- 👨‍💻 All of my projects are available at [(https://royraflesmatorangpasaribu.github.io/portofolio-royraflesmatorangpasaribu.github.io/)])
+```yaml
+Student:
+  University: Universitas Lampung (UNILA)
+  Major: Computer Science
+  Learning: Python Programming & Backend Architecture
 
-- 💬 Ask me about **C, C++, Java, Python**
-
-- 📫 How to reach me **royraflmp@gmail.com**
-
-- ⚡ Fun fact **I think I am Cool hehe**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/royrafmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royrafmp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCMhVqZ-qs2v-vw4LgkcWEYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCMhVqZ-qs2v-vw4LgkcWEYA" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/royraflesmatorangpasaribu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="royraflesmatorangpasaribu" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@2117051058_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@2117051058_roy" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=royraflesmatorangpasaribu&show_icons=true&locale=en&layout=compact" alt="royraflesmatorangpasaribu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royraflesmatorangpasaribu&show_icons=true&locale=en" alt="royraflesmatorangpasaribu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royraflesmatorangpasaribu&" alt="royraflesmatorangpasaribu" /></p>
+Profile:
+  Role: Back-End Developer | Full-Stack Developer | System Engineer
+  Languages: C, C++, Java, Python
+  Portfolio: [https://royraflesmatorangpasaribu.github.io/portofolio-royraflesmatorangpasaribu.github.io/](https://royraflesmatorangpasaribu.github.io/portofolio-royraflesmatorangpasaribu.github.io/)
+  Fun Fact: "I think I am Cool hehe 😎"
