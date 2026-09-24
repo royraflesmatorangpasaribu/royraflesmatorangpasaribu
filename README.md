@@ -1,12 +1,10 @@
-<h1 align="center">Hi there, I'm Roy Rafles Matorang Pasaribu 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Back+End+Developer;Full+Stack+Developer;System+Engineer;Computer+Science+Student+%40+Unila" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=500&lines=%24+cd+roy;%24+cat+roy;%24+siapa+saia;saia+roy+%40+backend-developer;" alt="terminal typing" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/royraflesmatorangpasaribu/royraflesmatorangpasaribu/main/assets/eyes.svg" width="220" alt="mata ngintip" />
-  <br/><sub><i>👀 ...lagi ngintipin visitor</i></sub>
+  <br/><sub><i>👀 ...haloo lagi kepo yaa</i></sub>
 </p>
 
 <p align="center">
@@ -24,12 +22,50 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Studying Computer Science at [Universitas Lampung](https://www.unila.ac.id/)
-- 🌱 Currently learning **Python Programming**
-- 👯 Open to collaborating on Back End / Full Stack projects
-- 💬 Ask me about **C, C++, Java, PHP, Python**
-- 📫 Reach me at **royraflmp@gmail.com**
-- ⚡ Fun fact: **I think I am Cool hehe**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/royraflesmatorangpasaribu/royraflesmatorangpasaribu/main/assets/terminal-header.svg" width="600" alt="terminal header" />
+</p>
+
+<details open>
+
+<summary><b>🎓 Education</b> — klik buat tutup/buka</summary>
+<br>
+
+Computer Science graduate dari [Universitas Lampung](https://www.unila.ac.id/) 🎓
+
+</details>
+
+<details>
+<summary><b>🛠️ Tech Stack Favorit</b></summary>
+<br>
+
+Sehari-hari main di sistem **reactive & scalable** — Java (Spring WebFlux) buat backend berat, PHP (Laravel) buat yang cepat gercep 🚀
+
+</details>
+
+<details>
+<summary><b>🌱 Lagi Belajar Apa</b></summary>
+<br>
+
+Lagi nyemplung ke **Java**, siapa tahu jadi penguasa pulau jawa hehe
+
+</details>
+
+<details>
+<summary><b>🤝 Kolaborasi</b></summary>
+<br>
+
+Selalu terbuka buat ngobrolin proyek Back End / Full Stack yang seru — colek aja **royraflmp@gmail.com** 📫
+
+</details>
+
+<details>
+<summary><b>🐞 Filosofi Ngoding</b></summary>
+<br>
+
+*"It's not a bug, it's an undocumented feature."* — dan aku PD banget bilang diri sendiri keren 😎
+
+</details>
 
 ---
 
@@ -97,7 +133,7 @@ Aku pernah mikir bug itu fitur tersembunyi... ternyata cuma kurang titik koma �
 </details>
 
 <p align="center">
-  <img src="https://readme-quote-generator.vercel.app/api?type=random&theme=default" alt="random dev quote" />
+  <img src="https://github-readme-quotes-bay.vercel.app/quote" alt="random dev quote" />
 </p>
 
 ---
@@ -105,22 +141,18 @@ Aku pernah mikir bug itu fitur tersembunyi... ternyata cuma kurang titik koma �
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=royraflesmatorangpasaribu&show_icons=true&locale=en&theme=tokyonight" alt="royraflesmatorangpasaribu stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=royraflesmatorangpasaribu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="royraflesmatorangpasaribu top langs" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=royraflesmatorangpasaribu&theme=tokyonight" alt="royraflesmatorangpasaribu streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=royraflesmatorangpasaribu&theme=tokyo-night" alt="activity graph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=200&color=39FF14&center=true&vCenter=true&repeat=true&width=600&height=30&lines=01001000+01101001+00100001;01000011+01101111+01100100+01101001+01101110+01100111...;01010010+01101111+01111001+00100000+01010111+01100001+01110011+00100000+01001000+01100101+01110010+01100101" alt="binary rain" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="cat coding" />
+  <br/><sub><i>🐱 partner ngoding setia, kadang jalan-jalan di keyboard</i></sub>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 <p align="center"><i>Thanks for stopping by — let's build something cool together! 🚀</i></p>
